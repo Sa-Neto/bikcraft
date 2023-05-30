@@ -8,12 +8,9 @@
 
 /* Home */
 @import './home/introducao.css';
-
-/* Bicilceta */
-@import './bicicletas/bicicleta-lista.css';
-
-/* Tecnologia */
 @import './home/tecnologia.css';
-
-/* Parceiros */
 @import './home/parceiros.css';
+@import './home/depoimentos.css';
+
+/* Bicicletas */
+@import './bicicletas/bicicleta-lista.css';
